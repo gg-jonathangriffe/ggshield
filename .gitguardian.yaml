@@ -42,6 +42,3 @@ iac:
     # container to be root.
     - GG_IAC_0079
 
-sca:
-  ignored_paths:
-    - tests/
